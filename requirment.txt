@@ -1,0 +1,10 @@
+pip install django
+pip install pillow
+pip install django-crispy-forms
+pip install django-cleanup
+python -m venv env (for virtual environment create)
+
+(Start Windows PowerShell with the "Run as Administrator" option.
+Only members of the Administrators group on the computer can change the execution policy.
+Enable running unsigned scripts by entering:
+#set-executionpolicy remotesigned)
